@@ -1,10 +1,9 @@
-image: node:18
+image: node:20
 
 stages:
   - build
   - deploy
 
-# IMPORTANT: disable caching of node_modules
 cache: {}
 
 build:
@@ -16,6 +15,7 @@ build:
   artifacts:
     paths:
       - dist/
+      - package-lock.json
 
 pages:
   stage: deploy
