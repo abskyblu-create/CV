@@ -1,0 +1,698 @@
+{
+  "personalInfo": {
+    "name": "Ankit Bhatt",
+    "title": "Decision Systems | AI & Data Analytics | Cross-Industry Adaptability",
+    "email": "abskyblu@gmail.com",
+    "phone": "",
+    "location": "Paris, France",
+    "linkedin": "https://linkedin.com/in/ankit-bhatt-4a1631388",
+    "github": "https://github.com/abskyblu-create?tab=repositories",
+    "youtube": "https://www.youtube.com/@Ankit-r5c5x",
+    "profilePic": "/uploads/1772717470868-337364991.png",
+    "availability": "Looking for AI / Data / FinTech Internship: France & Europe | April 13 – Sept 10, 2026",
+    "summary": "8+ years banking experience now building AI-enabled analytics systems. Currently pursuing Master of Engineering – Data Engineering & AI at ESILV Paris.",
+    "stats": {
+      "portfolioManaged": "€2.75M",
+      "availableFrom": "Europe"
+    }
+  },
+  "learningJourney": [
+    {
+      "period": "2007–2008",
+      "title": "Early Analytical Curiosity",
+      "subtitle": "Higher Secondary (Science), CBSE – New Delhi",
+      "summary": "Presented a state-level science project on detecting illegal poppy cultivation using satellite remote sensing, exploring how geospatial data and spectral signatures reveal hidden crop patterns.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "period": "2008–2014",
+      "title": "Engineering & Systems Thinking",
+      "subtitle": "Bachelor of Technology, Electrical Engineering",
+      "summary": "Developed strong foundations in power systems, automation, and monitoring technologies. Industrial training at NTPC exposed me to power plant operations, electrical grids, and SCADA-based monitoring systems.",
+      "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "period": "2009",
+      "title": "Early Technology Experiment",
+      "subtitle": "Megacarpool Project",
+      "summary": "Worked on Megacarpool, a pilot project exploring GPS-based carpooling systems. Researched mobility solutions, created presentations, and promoted the platform through early social media campaigns.",
+      "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "period": "Jun 2012–Dec 2012",
+      "title": "Operational Data Systems",
+      "subtitle": "InterGlobe Technologies",
+      "summary": "Worked with InterGlobe Technologies, supporting aviation operational systems managing flight scheduling and passenger data workflows in high-reliability environments.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109c0f2?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "period": "Jan 2013–Jun 2013",
+      "title": "Financial Risk Exposure",
+      "subtitle": "Midland Credit Management – Encore Capital Group (U.S.-based consumer debt recovery firm)",
+      "summary": "Worked with Midland Credit Management – Encore Capital Group (U.S.-based consumer debt recovery firm), analyzing credit bureau reports from Experian, Equifax, and TransUnion to support delinquency management and repayment risk assessment.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "period": "2014–2016",
+      "title": "Entrepreneurship & Competitive Preparation",
+      "subtitle": "Co-founder, Kreattivi Decor",
+      "summary": "Co-founded Kreattivi Decor, gaining experience in business development, client engagement, and operational planning, while preparing for national government examinations - UIIC and IBPS.",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "period": "Feb 2016–Jan 2017",
+      "title": "Insurance Data & Risk Workflows",
+      "subtitle": "United India Insurance",
+      "summary": "Worked with United India Insurance, gaining exposure to underwriting processes, claims data systems, and regulatory documentation workflows.",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "period": "2017–2025",
+      "title": "Banking, Risk & Financial Analytics",
+      "subtitle": "Government of India & SBI-sponsored Banking Institution",
+      "summary": "Worked with a Government of India & SBI-sponsored banking institution, developing expertise in financial portfolio analytics, credit risk monitoring, regulatory compliance, and data-driven financial decision making.",
+      "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "period": "2025–Present",
+      "title": "AI & Data Engineering Transition",
+      "subtitle": "Master of Engineering, ESILV Paris",
+      "summary": "Currently building capabilities in machine learning, data engineering, financial analytics, and AI-driven decision systems.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Credit Card Fraud Detection",
+      "domain": "Machine Learning / FinTech",
+      "deliverable": "ML detection pipeline",
+      "description": "Built a machine learning fraud detection system on 284K real-world credit card transactions (0.17% fraud) using Random Forest, XGBoost, and LightGBM, achieving ~0.97 ROC-AUC.\n\nWhile the GitHub and Video focus on the technical Credit Card Fraud Detection pipeline, the Published Magazine ('Future of Banking: AI, Neo Finance, Knowledge Capital, Innovation, and Technology Shaping the Future of Finance') and the GitLab site ('Chronological Rise of AI-Driven FinTech: From Emergence to Decentralisation') provide a holistic analysis of the evolving FinTech landscape.",
+      "skills": [
+        "Scikit-learn",
+        "XGBoost",
+        "Random Forest",
+        "SMOTE"
+      ],
+      "icon": "ShieldCheck",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/abskyblu-create/Machine-Learning-Credit-Fraud-Detection"
+        },
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=sgIN_kiTUHQ"
+        },
+        {
+          "label": "Published Magazine",
+          "url": "https://my.visme.co/view/y71jmwyz-report-on-decentralization-and-fintech-transformation"
+        },
+        {
+          "label": "FinTech Roadmap",
+          "url": "https://banking-2026-fintech-ai-data-roadmap-ad3a05.gitlab.io/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mortgage Lifecycle Analytics Platform",
+      "domain": "Banking Data Analytics",
+      "deliverable": "Institutional Comparison & Analytics",
+      "description": "A comparative institutional analysis of mortgage collection processes and regulatory frameworks between India and France. The platform explores the specific rules, legal structures, and key institutional players involved in mortgage lifecycles, contrasting traditional recovery systems with evolving fintech models.",
+      "skills": [
+        "SQL",
+        "Regulatory Frameworks",
+        "Institutional Analysis",
+        "FinTech Comparison"
+      ],
+      "icon": "Building2",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/abskyblu-create/Mortgage-Lifecycle-Analytics-Platform-France-India"
+        },
+        {
+          "label": "Live Platform",
+          "url": "https://mortgage-lifecycle-analytics-platform-france-india-65fa9b.gitlab.io"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Earthquake Data Analysis & Hotspot Exploration",
+      "domain": "Data Science / Geospatial",
+      "deliverable": "Interactive Analytics Dashboard",
+      "description": "Analyzed 4,424 historical earthquake records (2150 BC–2020 AD) from NOAA and validated findings with 183 modern USGS events, using temporal indicators, spatial clustering (KMeans, k=5), and Dash/Plotly dashboards to identify long-term seismic trends and geographic hotspots.",
+      "skills": [
+        "Python",
+        "KMeans",
+        "Dash/Plotly",
+        "Spatial Clustering",
+        "Geospatial Analysis"
+      ],
+      "icon": "Globe",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/abskyblu-create/Data-Science---Earthquake-Data-analysis"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Business Analyst AI Agent (LLM)",
+      "domain": "Generative AI",
+      "deliverable": "Live AI web application",
+      "description": "Developed a GenAI financial analysis agent that automatically extracts insights from earnings reports and financial data using LLMs, Next.js, and AI reasoning workflows, generating structured business analysis for faster decision-making.",
+      "skills": [
+        "LLM Applications",
+        "NLP",
+        "AI Reasoning",
+        "Next.js"
+      ],
+      "icon": "BrainCircuit",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/abskyblu-create/Business-Analyst-AI-agent---LLM"
+        },
+        {
+          "label": "Live Demo",
+          "url": "https://business-analyst-ai-agent-llm.vercel.app"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Finance Chatbot",
+      "domain": "FinTech / Analytics",
+      "deliverable": "Web chatbot application",
+      "description": "Designed a Python-based financial analytics chatbot that reads structured financial datasets and answers queries on revenue, net income, and financial ratios, enabling automated financial analysis through rule-based intelligence.",
+      "skills": [
+        "Python",
+        "Pandas",
+        "Financial Analytics",
+        "Flask"
+      ],
+      "icon": "LineChart",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/abskyblu-create/Finance_chatbot"
+        },
+        {
+          "label": "Live Application",
+          "url": "https://finance-chatbot-84pb.onrender.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Eco-Respire Sustainability Platform",
+      "domain": "IoT / Analytics",
+      "deliverable": "Conceptual system",
+      "description": "Conceptualized an AI-enabled circular economy platform converting agricultural waste into renewable energy using IoT monitoring, data analytics, and tokenized sustainability incentives.",
+      "skills": [
+        "IoT Monitoring",
+        "Analytics",
+        "Sustainability"
+      ],
+      "icon": "Leaf",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/abskyblu-create/eco-respire"
+        },
+        {
+          "label": "Platform",
+          "url": "https://eco-respire-6dcbec.gitlab.io/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/posts/ankit-bhatt-4a1631388_planning-towards-sustainable-cities-activity-7435038183064694784-6YDF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF99RHkBTPefO4mnkoHkmMF5RFeoFcyxU24"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Fraud Detection Analytics Dashboard",
+      "domain": "FinTech / Analytics",
+      "deliverable": "Interactive Analytics Dashboard",
+      "description": "Built an interactive fraud analytics dashboard analyzing transaction patterns and anomaly signals using Python, data visualization, and statistical analysis to support fraud investigation and monitoring.",
+      "skills": [
+        "Python",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Plotly/Dash"
+      ],
+      "icon": "BarChart3",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/abskyblu-create/fraud-detection-dashboard"
+        },
+        {
+          "label": "Live Dashboard",
+          "url": "https://abskyblu-create.github.io/fraud-detection-dashboard/"
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "role": "Credit Risk & Collections Analyst",
+      "company": "Banking & Financial Services (Govt. of India and SBI Sponsored bank)",
+      "period": "Feb 2017 – Aug 2025",
+      "location": "Uttarakhand, India",
+      "type": "banking",
+      "highlights": [
+        "€2.75M banking portfolio managed, including €1.65M deposits (12% YoY growth) and €1.1M lending portfolio",
+        "200+ credit appraisals per quarter, achieving 80% sanction rate and 95% loan disbursement efficiency",
+        "18% reduction in Non-Performing Assets (NPA) through portfolio monitoring, early warning signal analysis, and targeted recovery strategies",
+        "Achieved MDRT recognition with €50K insurance premium cross-selling through integrated financial advisory and customer portfolio management",
+        "Led financial literacy initiatives (5+ camps monthly) benefiting 500+ community participants, promoting financial inclusion and digital banking adoption"
+      ],
+      "skillTags": [
+        "Credit Risk Analytics",
+        "Portfolio Monitoring",
+        "Financial Data Analysis",
+        "MIS Reporting",
+        "AML / CKYC Compliance",
+        "EWS & OTMS Monitoring",
+        "MSME Credit Appraisal",
+        "Stakeholder Management",
+        "Audit Closure"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Underwriting & Claims Analyst",
+      "company": "United India Insurance (Govt. of India Enterprise)",
+      "period": "Feb 2016 – Jan 2017",
+      "location": "New Delhi, India",
+      "type": "insurance",
+      "highlights": [
+        "Managed high-volume underwriting data workflows supporting policy issuance and insurance claims processing",
+        "Validated insurance datasets for regulatory compliance, risk verification, and fraud-risk identification",
+        "Coordinated with Third-Party Administrators (TPAs) to monitor claims lifecycle, reconciliation, and dispute resolution",
+        "Resolved operational system issues with IT teams, improving claims processing turnaround times"
+      ],
+      "skillTags": [
+        "Insurance Data Workflows",
+        "Risk Assessment",
+        "Operational Analytics",
+        "Regulatory Compliance",
+        "Claims Processing"
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Credit collection Analyst",
+      "company": "Midland Credit Management – Encore Capital Group (U.S.-based consumer debt recovery firm)",
+      "period": "Jan 2013 – Jun 2013",
+      "location": "Delhi-NCR, India",
+      "type": "banking",
+      "highlights": [
+        "Key Skills: Credit Data Analysis • Collections Analytics • Risk Profiling • U.S. Consumer Credit Reporting • Financial Compliance",
+        "Executed data-driven recovery strategies for delinquent financial portfolios using customer risk profiling",
+        "Analyzed credit bureau data from Experian, Equifax, and TransUnion to evaluate repayment capacity and dispute validity",
+        "Resolved consumer credit disputes while maintaining strict financial regulatory compliance and reporting standards",
+        "Tracked payment behavior patterns and portfolio performance metrics using CRM and collections analytics systems"
+      ],
+      "skillTags": [
+        "Credit Data Analysis",
+        "Collections Analytics",
+        "Risk Profiling",
+        "Consumer Credit Reporting",
+        "Financial Compliance"
+      ]
+    },
+    {
+      "id": 4,
+      "role": "Technical Process Associate",
+      "company": "Interglobe Technologies (a subsidiary of Indigo Airlines)",
+      "period": "Jun 2012 – Dec 2012",
+      "location": "Delhi-NCR, India",
+      "type": "data",
+      "highlights": [
+        "Managed real-time operational flight data using aviation GUI-based systems ensuring high-integrity data entry",
+        "Processed airline datasets including flight schedules, passenger records, and operational updates",
+        "Coordinated with IT teams to troubleshoot technical system issues and minimize operational downtime",
+        "Maintained system documentation supporting aviation compliance and operational data accuracy"
+      ],
+      "skillTags": [
+        "Operational Data Management",
+        "IT Systems Support",
+        "Data Validation",
+        "Process Optimization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "M.Eng. in Data Engineering & AI",
+      "school": "ESILV (École Supérieure d'Ingénieurs Léonard de Vinci) – Grande École",
+      "period": "2025 – 2027",
+      "location": "Paris, France",
+      "details": "Specializing in Data Engineering & Artificial Intelligence"
+    },
+    {
+      "id": 2,
+      "degree": "B.Tech. Electrical and Electronics Engineering",
+      "school": "Uttar Pradesh Technical University",
+      "period": "2008 – 2014",
+      "location": "Greater Noida, Delhi-NCR"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "C1 (Advanced)"
+    },
+    {
+      "name": "French",
+      "level": "A2 (Intermediate)"
+    },
+    {
+      "name": "Hindi",
+      "level": "Native"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Workshop on Capacity Building of Bankers in Financing MSME Sector",
+      "issuer": "Reserve Bank of India",
+      "category": "Finance",
+      "date": "Dec 2017",
+      "image": "/uploads/cert-rbi-msme.png",
+      "description": "Intensive training on MSME credit appraisal, risk assessment, and policy frameworks at the central bank level."
+    },
+    {
+      "title": "JAIIB (Junior Associate of Indian Institute of Bankers)",
+      "issuer": "IIBF",
+      "category": "Finance",
+      "date": "Dec 2017",
+      "image": "/uploads/cert-iibf-jaiib.png",
+      "description": "Flagship banking certification covering Principles & Practices of Banking, Accounting & Finance, and Legal & Regulatory Aspects."
+    },
+    {
+      "title": "Anti-Money Laundering and Know Your Customer",
+      "issuer": "IIBF",
+      "category": "Finance",
+      "date": "Mar 2023",
+      "image": "/uploads/cert-iibf-aml-kyc.png",
+      "description": "Specialized certification in AML/KYC compliance, focusing on financial crime prevention and regulatory reporting."
+    },
+    {
+      "title": "Certificate Course in Digital Banking",
+      "issuer": "IIBF",
+      "category": "Finance",
+      "date": "Mar 2024",
+      "image": "/uploads/cert-iibf-digital.png",
+      "description": "Advanced course on digital banking ecosystems, payment systems, and electronic delivery channels."
+    },
+    {
+      "title": "Web Search API for AI Agent",
+      "issuer": "Tavily",
+      "category": "AI & Data",
+      "date": "2025",
+      "image": "/uploads/cert-tavily.png",
+      "description": "Certification in implementing advanced search, RAG, and LLM reasoning workflows for AI agents."
+    },
+    {
+      "title": "Operations Job Simulation",
+      "issuer": "Goldman Sachs",
+      "category": "Management & Operations",
+      "date": "Feb 2026",
+      "image": "/uploads/cert-goldman.png",
+      "description": "Practical simulation of ultra-high net worth transactions and foundational banking operations."
+    },
+    {
+      "title": "GenAI Job Simulation",
+      "issuer": "BCG X",
+      "category": "AI & Data",
+      "date": "Feb 2026",
+      "image": "/uploads/cert-bcgx.png",
+      "description": "Hands-on experience in data extraction, initial analysis, and developing AI-powered financial chatbots."
+    },
+    {
+      "title": "Professional Scrum Master I (PSM I)",
+      "issuer": "Scrum.org",
+      "category": "Management & Operations",
+      "date": "Feb 2026",
+      "image": "/uploads/cert-psm1.png",
+      "description": "Fundamental level of Scrum mastery, demonstrating consistent use of terminology and approach to Scrum."
+    },
+    {
+      "title": "Working as a Scrum Master",
+      "issuer": "Coursera / SkillUp",
+      "category": "Management & Operations",
+      "date": "Feb 2026",
+      "image": "/uploads/cert-scrum-master.png",
+      "description": "Comprehensive training on Scrum Master roles, responsibilities, and agile team dynamics."
+    },
+    {
+      "title": "Research Analyst (Technical & Equity Research)",
+      "issuer": "FLIP",
+      "category": "Finance",
+      "date": "2019",
+      "image": "/uploads/cert-flip-research.png",
+      "description": "Dual certification in Technical Analysis and NCFM Equity Research, focusing on market dynamics and valuation."
+    },
+    {
+      "title": "Technical Analysis",
+      "issuer": "FLIP",
+      "category": "Finance",
+      "date": "July 2019",
+      "image": "/uploads/cert-flip-tech.png",
+      "description": "In-depth study of market trends, chart patterns, and technical indicators for financial decision making."
+    },
+    {
+      "title": "Foundations of Project Management",
+      "issuer": "Google / Coursera",
+      "category": "Management & Operations",
+      "date": "June 2021",
+      "image": "/uploads/cert-google-pm.png",
+      "description": "Mastery of project management fundamentals, methodologies, and professional communication."
+    },
+    {
+      "title": "Getting Started with Data",
+      "issuer": "IBM SkillsBuild",
+      "category": "AI & Data",
+      "date": "Sept 2025",
+      "image": "/uploads/cert-ibm-data-start.png",
+      "description": "Foundational data literacy, covering data types, structures, and basic analytical concepts."
+    },
+    {
+      "title": "Data Fundamentals",
+      "issuer": "IBM SkillsBuild",
+      "category": "AI & Data",
+      "date": "Sept 2025",
+      "image": "/uploads/cert-ibm-data-fund.png",
+      "description": "Core principles of data engineering, storage, and processing workflows."
+    }
+  ],
+  "coursework": [
+    "Machine Learning",
+    "Neural Networks & Deep Learning",
+    "Advanced Deep Learning",
+    "AI Algorithms",
+    "Explainable AI",
+    "Green & Responsible AI",
+    "Computational Modeling",
+    "Advanced Probability",
+    "Risk Analysis",
+    "Programming for Data Science",
+    "NoSQL Databases",
+    "MLOps",
+    "Containerization Technologies",
+    "Software Engineering",
+    "Web Data Mining & Semantics",
+    "Agile & Scrum",
+    "Project & Research Methodology"
+  ],
+  "skills": {
+    "data_foundations": {
+      "title": "Data Foundations",
+      "items": ["Python", "SQL", "Pandas", "NumPy", "MySQL", "PostgreSQL", "IBM Db2", "Schema Design", "Data Modeling", "Normalization"],
+      "description": "These form the data layer where information is structured and prepared."
+    },
+    "analytics_ml": {
+      "title": "Analytics & Machine Learning",
+      "items": ["Exploratory Data Analysis (EDA)", "Feature Engineering", "Random Forest", "XGBoost", "LightGBM", "Scikit-learn"],
+      "description": "Techniques used to extract patterns, detect anomalies, and build predictive models."
+    },
+    "analytics_visualization": {
+      "title": "Analytics & Visualization",
+      "items": ["Excel", "Power BI", "Statistical Analysis", "Time Series Analysis", "Data Visualization"],
+      "description": "Transforming datasets into insights and decision dashboards."
+    },
+    "development_workflow": {
+      "title": "Development & Workflow",
+      "items": ["Git", "GitHub", "VS Code", "Jupyter Notebook"],
+      "description": "Supporting reproducible analysis and collaborative development."
+    },
+    "enterprise_systems": {
+      "title": "Enterprise Systems Exposure",
+      "items": ["TCS BaNCS", "Genesys", "JIRA", "GC Software"],
+      "description": "Experience working with real operational systems in regulated environments."
+    }
+  },
+  "soft_skills": [
+    {
+      "category": "Strategic Thinking",
+      "items": ["Strategic Thinking", "Decision Making", "Leadership"],
+      "description": "Connecting data insights to real business outcomes."
+    },
+    {
+      "category": "Problem Solving",
+      "items": ["Analytical Problem Solving", "Systems Thinking", "Adaptability"],
+      "description": "Breaking complex systems into structured analytical solutions."
+    },
+    {
+      "category": "Communication",
+      "items": ["Technical Communication", "Stakeholder Management"],
+      "description": "Bridging technical analysis with business decisions."
+    }
+  ],
+  "deepDive": {
+    "approach": {
+      "title": "How I Approach Complex Problems",
+      "intro": "My work sits at the intersection of domain expertise, analytical thinking, and modern data technologies. Over the years I have worked across engineering systems, financial operations, and risk management, and more recently in AI, machine learning, and data analytics. This journey has shaped the way I approach complex problems: not as isolated technical challenges, but as systems that require understanding from multiple perspectives.",
+      "methodology": "When faced with a problem, I start by understanding its context and structure — the business environment, the risks involved, and the decisions that ultimately need to be made. From there, I move into data exploration and analytical modelling, using statistical analysis, machine learning techniques, and modern AI tools to uncover patterns that are not immediately visible.",
+      "philosophy": "Technology alone does not solve problems. The real value emerges when domain understanding, data, and intelligent systems work together.",
+      "lenses": [
+        {
+          "name": "Domain thinking",
+          "description": "understanding financial systems, risk dynamics, and operational realities"
+        },
+        {
+          "name": "Analytical thinking",
+          "description": "structuring problems, exploring data, and building models"
+        },
+        {
+          "name": "Technological capability",
+          "description": "applying machine learning, analytics, and AI to generate insights"
+        }
+      ],
+      "conclusion": "The goal is not simply to build models, but to transform complex information into decisions that are clear, practical, and grounded in evidence. In a world increasingly shaped by data and automation, organizations need people who can connect business context, analytical reasoning, and intelligent systems. My focus is to contribute at that intersection — designing solutions where data, technology, and human judgement reinforce each other.",
+      "representation": "This framework reflects the way I approach systems: Engineering discipline, Financial domain understanding, Data and AI capabilities. Together they create a way of thinking that turns complex problems into structured, solvable systems."
+    },
+    "pipeline": [
+      {
+        "step": "Problem Context",
+        "description": "Defining the boundaries and environment of the challenge."
+      },
+      {
+        "step": "Domain Understanding",
+        "description": "Deep dive into finance, risk, and operational dynamics."
+      },
+      {
+        "step": "Problem Structuring",
+        "description": "Formulating key questions, hypotheses, and decision metrics."
+      },
+      {
+        "step": "Data Discovery",
+        "description": "Identifying structured data, signals, and operational records."
+      },
+      {
+        "step": "Data Processing",
+        "description": "Cleaning, transformation, and feature engineering."
+      },
+      {
+        "step": "Analytics & Modeling",
+        "description": "Applying statistics, machine learning, and predictive analysis."
+      },
+      {
+        "step": "AI Reasoning",
+        "description": "Using LLMs for pattern interpretation and scenario exploration."
+      },
+      {
+        "step": "Decision Options",
+        "description": "Evaluating multiple potential solutions and their impacts."
+      },
+      {
+        "step": "Strategic Recommendation",
+        "description": "Delivering data-driven and context-aware decisions."
+      }
+    ],
+    "future_direction": "I see my future at the intersection of technology, data, and strategic decision-making. My goal is to become a manager who understands technology well enough to use it effectively.\n\nBuilding on my background in engineering, financial systems, and risk management, I am strengthening my understanding of AI, data analytics, and intelligent systems so that I can help organizations translate complex data into clear business decisions.\n\nOver time, I aim to contribute in roles where technology, analytics, and management come together—helping teams adopt AI responsibly, improve decision processes, and create sustainable value across industries.",
+    "technical_experiments": [
+      {
+        "title": "✈️ Flight & Passenger Management System — Prototype",
+        "description": "Designed a prototype system for managing flight schedules, passenger records, and operational workflows, demonstrating how aviation data systems organize and process flight information. The project models core airline operations including passenger tracking, flight scheduling, and operational data management, reflecting real-world airline system structures.",
+        "tech": [
+          "System Design",
+          "Operational Data Modeling",
+          "Aviation Data Systems",
+          "Process Workflow Analysis"
+        ],
+        "links": [
+          {
+            "label": "GitHub",
+            "url": "https://github.com/abskyblu-create/Flight-Management-System"
+          }
+        ]
+      },
+      {
+        "title": "Intelligent Traffic Computer Vision System",
+        "description": "Developed a computer vision system for traffic analysis, using image classification and machine learning models to detect vehicle patterns and improve traffic monitoring insights.",
+        "tech": [
+          "Computer Vision",
+          "Image Classification",
+          "Machine Learning",
+          "OpenCV"
+        ],
+        "links": [
+          {
+            "label": "GitHub",
+            "url": "https://github.com/abskyblu-create/Intelligent-computer-vision-traffic-analysis"
+          },
+          {
+            "label": "Video Demo",
+            "url": "https://youtu.be/HROmUGLE-4k"
+          }
+        ]
+      },
+      {
+        "title": "TCP Port Scanner (Rust)",
+        "description": "Built a multi-threaded TCP port scanner in Rust capable of scanning 1,000+ ports concurrently, demonstrating low-level networking, concurrency, and system-level performance optimization.",
+        "tech": [
+          "Rust",
+          "Networking",
+          "Concurrency",
+          "Performance Optimization"
+        ],
+        "links": [
+          {
+            "label": "GitHub",
+            "url": "https://github.com/abskyblu-create/rust_bootcamp/tree/main/rust_portscan"
+          },
+          {
+            "label": "Video Explanation",
+            "url": "https://www.youtube.com/watch?v=Mg6aSdCFSkU"
+          }
+        ]
+      },
+      {
+        "title": "📊 Data Cleaning & Imbalance Handling (ML Experiment)",
+        "description": "Performed data preprocessing, exploratory data analysis (EDA), and class imbalance handling for machine learning datasets. Implemented techniques such as data cleaning, feature inspection, and resampling methods to prepare datasets for reliable model training and evaluation.\n\nThis experiment demonstrates the importance of data preparation pipelines before applying machine learning models.",
+        "tech": [
+          "Data Cleaning",
+          "Exploratory Data Analysis (EDA)",
+          "Data Rebalancing",
+          "Machine Learning Preprocessing"
+        ],
+        "links": [
+          {
+            "label": "Notebook",
+            "url": "https://github.com/abskyblu-create/LAB4--part-1---EDA-and-data-rebalancing/blob/main/ML_LAB4_part1_Cleaning_EDA_ImbalanceHandling.ipynb"
+          }
+        ]
+      }
+    ]
+  }
+}
