@@ -7,7 +7,6 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    // IMPORTANT for GitLab Pages  fixes 404
     base: './',
 
     plugins: [react(), tailwindcss()],
@@ -20,6 +19,11 @@ export default defineConfig(({ mode }) => {
       alias: {
         '@': path.resolve(__dirname, '.'),
       },
+    },
+
+    build: {
+      outDir: 'dist',
+      emptyOutDir: true,
     },
 
     server: {

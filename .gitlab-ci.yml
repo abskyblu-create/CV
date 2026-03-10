@@ -21,7 +21,7 @@ pages:
   stage: deploy
   script:
     - mkdir public
-    - cp -r dist/* public/
+    - rsync -av dist/ public/
   artifacts:
     paths:
       - public
