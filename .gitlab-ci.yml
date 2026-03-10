@@ -19,11 +19,12 @@ build:
 pages:
   stage: deploy
   script:
-    - mkdir public
+    - rm -rf public/*
     - cp -r dist/* public/
-    - cp -r dist/. public/   # ensures hidden files and nested folders copy correctly
+    - cp -r dist/. public/
   artifacts:
     paths:
       - public
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+
