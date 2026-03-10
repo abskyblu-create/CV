@@ -1,0 +1,33 @@
+image: node:22
+
+stages:
+  - install
+  - build
+  - deploy
+
+install:
+  stage: install
+  script:
+    - npm install
+  artifacts:
+    paths:
+      - node_modules/
+
+build:
+  stage: build
+  script:
+    - npm run build
+  artifacts:
+    paths:
+      - dist/
+
+deploy:
+  stage: deploy
+  script:
+    - mkdir .public
+    - cp -r dist/* .public
+  artifacts:
+    paths:
+      - .public
+  only:
+    - main
