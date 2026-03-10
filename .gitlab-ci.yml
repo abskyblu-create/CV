@@ -15,13 +15,13 @@ build:
   artifacts:
     paths:
       - dist/
-      - package-lock.json
 
 pages:
   stage: deploy
   script:
     - mkdir public
-    - rsync -av dist/ public/
+    - cp -r dist/* public/
+    - cp -r dist/. public/   # ensures hidden files and nested folders copy correctly
   artifacts:
     paths:
       - public
